@@ -1,5 +1,8 @@
 # My Favorite
-
+---
+name: krit
+genre: hee
+my favorite: kuay
 ---
 name: first
 genre: game
