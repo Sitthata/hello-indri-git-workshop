@@ -3,7 +3,7 @@
 ---
 name: first
 genre: game
-my favorite: Roblox
+my favorite: gay
 ---
 name: gun
 genre: music
